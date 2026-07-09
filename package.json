@@ -1,0 +1,20 @@
+{
+  "name": "instagram-carousel-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "grammy": "^1.42.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.0",
+    "typescript": "^5.9.2"
+  }
+}
