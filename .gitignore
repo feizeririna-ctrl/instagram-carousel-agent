@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+workspace/inbox/*
+workspace/output/*
+!workspace/inbox/.gitkeep
+!workspace/output/.gitkeep
